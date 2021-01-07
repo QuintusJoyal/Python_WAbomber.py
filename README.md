@@ -19,6 +19,8 @@ Default_location ( ChromeDriver ): C:\Program Files (x86)\Google\Chrome\Applicat
 ## Usage
 
 ```python
+pip install selenium
+
 python WAbomber.py
 ```
 ## Video
