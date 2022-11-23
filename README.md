@@ -23,8 +23,6 @@ pip install selenium
 
 python WAbomber.py
 ```
-## Video
-[![Watch the video](https://img.youtube.com/vi/sMROa6GqY8U/hqdefault.jpg)](https://youtu.be/sMROa6GqY8U)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
